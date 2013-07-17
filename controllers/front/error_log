@@ -1,0 +1,8 @@
+[16-Jul-2013 21:46:53 America/New_York] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE), expecting function (T_FUNCTION) in /home/ccrazy/public_html/prestashop/modules/gcheckout/controllers/front/payment.php on line 11
+[16-Jul-2013 21:47:06 America/New_York] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE), expecting function (T_FUNCTION) in /home/ccrazy/public_html/prestashop/modules/gcheckout/controllers/front/payment.php on line 9
+[16-Jul-2013 21:47:38 America/New_York] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/ccrazy/public_html/prestashop/modules/gcheckout/controllers/front/payment.php on line 90
+[16-Jul-2013 22:39:51 America/New_York] PHP Parse error:  syntax error, unexpected '*' in /home/ccrazy/public_html/prestashop/modules/gcheckout/controllers/front/payment.php on line 77
+[16-Jul-2013 22:40:06 America/New_York] PHP Warning:  Unterminated comment starting line 80 in /home/ccrazy/public_html/prestashop/modules/gcheckout/controllers/front/payment.php on line 80
+[16-Jul-2013 22:40:06 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/ccrazy/public_html/prestashop/modules/gcheckout/controllers/front/payment.php on line 101
+[16-Jul-2013 22:40:34 America/New_York] PHP Warning:  Unterminated comment starting line 79 in /home/ccrazy/public_html/prestashop/modules/gcheckout/controllers/front/payment.php on line 79
+[16-Jul-2013 22:40:34 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/ccrazy/public_html/prestashop/modules/gcheckout/controllers/front/payment.php on line 101
